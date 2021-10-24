@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - Enemy
+  - Collision
+  - endCoin
+  - Coin2
   layers:
   - Default
   - TransparentFX
@@ -13,11 +17,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Coin
+  - Enemy
+  - Walls
+  - Ground
+  - endCoin
   - 
   - 
   - 
